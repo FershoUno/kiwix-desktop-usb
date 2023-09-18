@@ -3,7 +3,8 @@
 
 ## Descargar Wikipedia
 
-Descarga la wikipedia desde el siguiente enlace: [Wikipedia](https://ibrary.kiwix.org/#lang=spa&category=wikipedia|Wikipedia)
+Descarga la wikipedia desde el siguiente enlace: [Wikipedia](https://ibrary.kiwix.org/#lang=spa&category=wikipedia|Wikipedia)  
+> Recomendable via Torrent
 
 # Preparar el directorio kiwix-desktop-usb
 
@@ -17,14 +18,19 @@ Esta sección solo es para preparar el pendrive
 
 Esta sección es para ejecutar kiwix-desktop 
 
-1.- Se recomienda ejecutar el archivo `dependencias.bat`  y procedecer con la instalación correspondiente
-> siguiente>siguiente>siguiente   
+1.- Ejecutar el archivo `dependencias.bat`   
+> procedecer con la instalación correspondiente:  
+siguiente > siguiente > siguiente  
 
-2.- ejecutar el archivo `start-kiwix.bat`
+2.- Ejecutar el archivo `start-kiwix.bat`
 
 
 # Soporte
 
-versiones probadas de Windows  
+versiones probadas Kiwix-Desktop de Windows  
 - Windows 8, 8.1 (64 bit)
 - Windows 10 (64 bit)
+
+# Tutorial en video
+
+falta
