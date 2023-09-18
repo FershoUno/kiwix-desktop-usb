@@ -10,8 +10,9 @@ Descarga la wikipedia desde el siguiente enlace: [Wikipedia](https://library.kiw
 
 Esta sección solo es para preparar el pendrive
 
-1.- Descomprimir el archivo .zip  
-2.- Copiar la Wikipedia dentro del directorio **contenido**  
+1.- Descargar [kiwix-desktop-usb](https://github.com/FershoUno/kiwix-desktop-usb/releases/download/1.0/kiwix-desktop-usb.zip)  
+2.- Descomprimir el archivo .zip  
+3.- Copiar la Wikipedia dentro del directorio **contenido**  
 
 
 # Preparar el pendrive
