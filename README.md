@@ -3,7 +3,7 @@
 
 ## Descargar Wikipedia
 
-Descarga la wikipedia desde el siguiente enlace: [Wikipedia](https://ibrary.kiwix.org/#lang=spa&category=wikipedia|Wikipedia)  
+Descarga la wikipedia desde el siguiente enlace: [Wikipedia](https://library.kiwix.org/#lang=spa&category=wikipedia)  
 > Recomendable via Torrent
 
 # Preparar el directorio kiwix-desktop-usb
@@ -11,8 +11,13 @@ Descarga la wikipedia desde el siguiente enlace: [Wikipedia](https://ibrary.kiwi
 Esta sección solo es para preparar el pendrive
 
 1.- Descomprimir el archivo .zip  
-2.- Copiar el directorio descomprimido al pendrive  
-3.- Copiar la Wikipedia dentro del directorio **contenido**  
+2.- Copiar la Wikipedia dentro del directorio **contenido**  
+
+
+# Preparar el pendrive
+
+Conectar el pendrive al ordenador y copiar el directorio `kiwix-desktop-usb`
+
 
 # Como ejecutar Kiwix-Desktop-usb
 
@@ -24,6 +29,7 @@ siguiente > siguiente > siguiente
 
 2.- Ejecutar el archivo `start-kiwix.bat`
 
+>*nota.- Si en la instalación de dependencias le da opción de reinstalar, desinstalar, se recomienda cancelarlo y saltarse al paso numero 2*
 
 # Soporte
 
