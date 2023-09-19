@@ -40,4 +40,4 @@ versiones probadas Kiwix-Desktop de Windows
 
 # Tutorial en video
 
-falta
+[tutorial - kiwix desktop usb](https://youtu.be/BBB9v1NmKJQ)
